@@ -16,4 +16,5 @@ def maxwindsolar(input_csv):
     FTshares.to_csv(input_csv[:-4]+"maxshares.csv", index=False)
     print("The time with max share of wind and solar is ", max_period)
     print("The shares of each fueltype at that type is \n", FTshares)
-maxwindsolar('entire2021.csv')
+input_csv = '' #Example: entire2021.csv
+maxwindsolar(input_csv)
