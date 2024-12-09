@@ -1,0 +1,201 @@
+period,respondent,respondent-name,fueltype,type-name,value,value-units
+2021-03-01T08,CAL,California,COL,Coal,675,megawatthours
+2021-03-01T08,CAL,California,NG,Natural Gas,10979,megawatthours
+2021-03-01T08,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-03-01T08,CAL,California,OIL,Petroleum,83,megawatthours
+2021-03-01T08,CAL,California,OTH,Other,370,megawatthours
+2021-03-01T08,CAL,California,SUN,Solar,-19,megawatthours
+2021-03-01T08,CAL,California,WAT,Hydro,1529,megawatthours
+2021-03-01T08,CAL,California,WND,Wind,660,megawatthours
+2021-03-01T07,CAL,California,COL,Coal,803,megawatthours
+2021-03-01T07,CAL,California,NG,Natural Gas,11888,megawatthours
+2021-03-01T07,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-03-01T07,CAL,California,OIL,Petroleum,78,megawatthours
+2021-03-01T07,CAL,California,OTH,Other,367,megawatthours
+2021-03-01T07,CAL,California,SUN,Solar,-20,megawatthours
+2021-03-01T07,CAL,California,WAT,Hydro,1559,megawatthours
+2021-03-01T07,CAL,California,WND,Wind,651,megawatthours
+2021-03-01T06,CAL,California,COL,Coal,910,megawatthours
+2021-03-01T06,CAL,California,NG,Natural Gas,12345,megawatthours
+2021-03-01T06,CAL,California,NUC,Nuclear,1146,megawatthours
+2021-03-01T06,CAL,California,OIL,Petroleum,80,megawatthours
+2021-03-01T06,CAL,California,OTH,Other,372,megawatthours
+2021-03-01T06,CAL,California,SUN,Solar,-20,megawatthours
+2021-03-01T06,CAL,California,WAT,Hydro,2183,megawatthours
+2021-03-01T06,CAL,California,WND,Wind,780,megawatthours
+2021-03-01T05,CAL,California,COL,Coal,1048,megawatthours
+2021-03-01T05,CAL,California,NG,Natural Gas,12673,megawatthours
+2021-03-01T05,CAL,California,NUC,Nuclear,1146,megawatthours
+2021-03-01T05,CAL,California,OIL,Petroleum,87,megawatthours
+2021-03-01T05,CAL,California,OTH,Other,357,megawatthours
+2021-03-01T05,CAL,California,SUN,Solar,-19,megawatthours
+2021-03-01T05,CAL,California,WAT,Hydro,2804,megawatthours
+2021-03-01T05,CAL,California,WND,Wind,842,megawatthours
+2021-03-01T04,CAL,California,COL,Coal,1166,megawatthours
+2021-03-01T04,CAL,California,NG,Natural Gas,12996,megawatthours
+2021-03-01T04,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-03-01T04,CAL,California,OIL,Petroleum,88,megawatthours
+2021-03-01T04,CAL,California,OTH,Other,509,megawatthours
+2021-03-01T04,CAL,California,SUN,Solar,-19,megawatthours
+2021-03-01T04,CAL,California,WAT,Hydro,3115,megawatthours
+2021-03-01T04,CAL,California,WND,Wind,828,megawatthours
+2021-03-01T03,CAL,California,COL,Coal,983,megawatthours
+2021-03-01T03,CAL,California,NG,Natural Gas,13090,megawatthours
+2021-03-01T03,CAL,California,NUC,Nuclear,1145,megawatthours
+2021-03-01T03,CAL,California,OIL,Petroleum,88,megawatthours
+2021-03-01T03,CAL,California,OTH,Other,567,megawatthours
+2021-03-01T03,CAL,California,SUN,Solar,9,megawatthours
+2021-03-01T03,CAL,California,WAT,Hydro,3928,megawatthours
+2021-03-01T03,CAL,California,WND,Wind,773,megawatthours
+2021-03-01T02,CAL,California,COL,Coal,852,megawatthours
+2021-03-01T02,CAL,California,NG,Natural Gas,12129,megawatthours
+2021-03-01T02,CAL,California,NUC,Nuclear,1146,megawatthours
+2021-03-01T02,CAL,California,OIL,Petroleum,87,megawatthours
+2021-03-01T02,CAL,California,OTH,Other,696,megawatthours
+2021-03-01T02,CAL,California,SUN,Solar,128,megawatthours
+2021-03-01T02,CAL,California,WAT,Hydro,3721,megawatthours
+2021-03-01T02,CAL,California,WND,Wind,765,megawatthours
+2021-03-01T01,CAL,California,COL,Coal,769,megawatthours
+2021-03-01T01,CAL,California,NG,Natural Gas,8965,megawatthours
+2021-03-01T01,CAL,California,NUC,Nuclear,1145,megawatthours
+2021-03-01T01,CAL,California,OIL,Petroleum,88,megawatthours
+2021-03-01T01,CAL,California,OTH,Other,652,megawatthours
+2021-03-01T01,CAL,California,SUN,Solar,2750,megawatthours
+2021-03-01T01,CAL,California,WAT,Hydro,2323,megawatthours
+2021-03-01T01,CAL,California,WND,Wind,1024,megawatthours
+2021-03-01T00,CAL,California,COL,Coal,611,megawatthours
+2021-03-01T00,CAL,California,NG,Natural Gas,6362,megawatthours
+2021-03-01T00,CAL,California,NUC,Nuclear,1146,megawatthours
+2021-03-01T00,CAL,California,OIL,Petroleum,88,megawatthours
+2021-03-01T00,CAL,California,OTH,Other,285,megawatthours
+2021-03-01T00,CAL,California,SUN,Solar,9659,megawatthours
+2021-03-01T00,CAL,California,WAT,Hydro,795,megawatthours
+2021-03-01T00,CAL,California,WND,Wind,903,megawatthours
+2021-02-28T23,CAL,California,COL,Coal,576,megawatthours
+2021-02-28T23,CAL,California,NG,Natural Gas,4446,megawatthours
+2021-02-28T23,CAL,California,NUC,Nuclear,1146,megawatthours
+2021-02-28T23,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T23,CAL,California,OTH,Other,152,megawatthours
+2021-02-28T23,CAL,California,SUN,Solar,11762,megawatthours
+2021-02-28T23,CAL,California,WAT,Hydro,448,megawatthours
+2021-02-28T23,CAL,California,WND,Wind,931,megawatthours
+2021-02-28T22,CAL,California,COL,Coal,576,megawatthours
+2021-02-28T22,CAL,California,NG,Natural Gas,3726,megawatthours
+2021-02-28T22,CAL,California,NUC,Nuclear,1145,megawatthours
+2021-02-28T22,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T22,CAL,California,OTH,Other,402,megawatthours
+2021-02-28T22,CAL,California,SUN,Solar,10642,megawatthours
+2021-02-28T22,CAL,California,WAT,Hydro,471,megawatthours
+2021-02-28T22,CAL,California,WND,Wind,1036,megawatthours
+2021-02-28T21,CAL,California,COL,Coal,575,megawatthours
+2021-02-28T21,CAL,California,NG,Natural Gas,3728,megawatthours
+2021-02-28T21,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-02-28T21,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T21,CAL,California,OTH,Other,414,megawatthours
+2021-02-28T21,CAL,California,SUN,Solar,10284,megawatthours
+2021-02-28T21,CAL,California,WAT,Hydro,470,megawatthours
+2021-02-28T21,CAL,California,WND,Wind,1123,megawatthours
+2021-02-28T20,CAL,California,COL,Coal,576,megawatthours
+2021-02-28T20,CAL,California,NG,Natural Gas,3508,megawatthours
+2021-02-28T20,CAL,California,NUC,Nuclear,1149,megawatthours
+2021-02-28T20,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T20,CAL,California,OTH,Other,491,megawatthours
+2021-02-28T20,CAL,California,SUN,Solar,10822,megawatthours
+2021-02-28T20,CAL,California,WAT,Hydro,479,megawatthours
+2021-02-28T20,CAL,California,WND,Wind,1311,megawatthours
+2021-02-28T19,CAL,California,COL,Coal,577,megawatthours
+2021-02-28T19,CAL,California,NG,Natural Gas,3646,megawatthours
+2021-02-28T19,CAL,California,NUC,Nuclear,1149,megawatthours
+2021-02-28T19,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T19,CAL,California,OTH,Other,329,megawatthours
+2021-02-28T19,CAL,California,SUN,Solar,11172,megawatthours
+2021-02-28T19,CAL,California,WAT,Hydro,443,megawatthours
+2021-02-28T19,CAL,California,WND,Wind,1326,megawatthours
+2021-02-28T18,CAL,California,COL,Coal,577,megawatthours
+2021-02-28T18,CAL,California,NG,Natural Gas,3650,megawatthours
+2021-02-28T18,CAL,California,NUC,Nuclear,1148,megawatthours
+2021-02-28T18,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T18,CAL,California,OTH,Other,456,megawatthours
+2021-02-28T18,CAL,California,SUN,Solar,11394,megawatthours
+2021-02-28T18,CAL,California,WAT,Hydro,439,megawatthours
+2021-02-28T18,CAL,California,WND,Wind,1663,megawatthours
+2021-02-28T17,CAL,California,COL,Coal,578,megawatthours
+2021-02-28T17,CAL,California,NG,Natural Gas,4008,megawatthours
+2021-02-28T17,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-02-28T17,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T17,CAL,California,OTH,Other,470,megawatthours
+2021-02-28T17,CAL,California,SUN,Solar,10918,megawatthours
+2021-02-28T17,CAL,California,WAT,Hydro,599,megawatthours
+2021-02-28T17,CAL,California,WND,Wind,1887,megawatthours
+2021-02-28T16,CAL,California,COL,Coal,630,megawatthours
+2021-02-28T16,CAL,California,NG,Natural Gas,5141,megawatthours
+2021-02-28T16,CAL,California,NUC,Nuclear,1148,megawatthours
+2021-02-28T16,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T16,CAL,California,OTH,Other,364,megawatthours
+2021-02-28T16,CAL,California,SUN,Solar,8754,megawatthours
+2021-02-28T16,CAL,California,WAT,Hydro,923,megawatthours
+2021-02-28T16,CAL,California,WND,Wind,1406,megawatthours
+2021-02-28T15,CAL,California,COL,Coal,778,megawatthours
+2021-02-28T15,CAL,California,NG,Natural Gas,8773,megawatthours
+2021-02-28T15,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-02-28T15,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T15,CAL,California,OTH,Other,440,megawatthours
+2021-02-28T15,CAL,California,SUN,Solar,2505,megawatthours
+2021-02-28T15,CAL,California,WAT,Hydro,1068,megawatthours
+2021-02-28T15,CAL,California,WND,Wind,1548,megawatthours
+2021-02-28T14,CAL,California,COL,Coal,768,megawatthours
+2021-02-28T14,CAL,California,NG,Natural Gas,10586,megawatthours
+2021-02-28T14,CAL,California,NUC,Nuclear,1148,megawatthours
+2021-02-28T14,CAL,California,OIL,Petroleum,87,megawatthours
+2021-02-28T14,CAL,California,OTH,Other,606,megawatthours
+2021-02-28T14,CAL,California,SUN,Solar,-22,megawatthours
+2021-02-28T14,CAL,California,WAT,Hydro,1134,megawatthours
+2021-02-28T14,CAL,California,WND,Wind,1828,megawatthours
+2021-02-28T13,CAL,California,COL,Coal,694,megawatthours
+2021-02-28T13,CAL,California,NG,Natural Gas,9976,megawatthours
+2021-02-28T13,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-02-28T13,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T13,CAL,California,OTH,Other,598,megawatthours
+2021-02-28T13,CAL,California,SUN,Solar,-24,megawatthours
+2021-02-28T13,CAL,California,WAT,Hydro,917,megawatthours
+2021-02-28T13,CAL,California,WND,Wind,1812,megawatthours
+2021-02-28T12,CAL,California,COL,Coal,652,megawatthours
+2021-02-28T12,CAL,California,NG,Natural Gas,9786,megawatthours
+2021-02-28T12,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-02-28T12,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T12,CAL,California,OTH,Other,532,megawatthours
+2021-02-28T12,CAL,California,SUN,Solar,-23,megawatthours
+2021-02-28T12,CAL,California,WAT,Hydro,814,megawatthours
+2021-02-28T12,CAL,California,WND,Wind,2174,megawatthours
+2021-02-28T11,CAL,California,COL,Coal,651,megawatthours
+2021-02-28T11,CAL,California,NG,Natural Gas,9866,megawatthours
+2021-02-28T11,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-02-28T11,CAL,California,OIL,Petroleum,87,megawatthours
+2021-02-28T11,CAL,California,OTH,Other,569,megawatthours
+2021-02-28T11,CAL,California,SUN,Solar,-21,megawatthours
+2021-02-28T11,CAL,California,WAT,Hydro,739,megawatthours
+2021-02-28T11,CAL,California,WND,Wind,2150,megawatthours
+2021-02-28T10,CAL,California,COL,Coal,652,megawatthours
+2021-02-28T10,CAL,California,NG,Natural Gas,9896,megawatthours
+2021-02-28T10,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-02-28T10,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T10,CAL,California,OTH,Other,643,megawatthours
+2021-02-28T10,CAL,California,SUN,Solar,-20,megawatthours
+2021-02-28T10,CAL,California,WAT,Hydro,800,megawatthours
+2021-02-28T10,CAL,California,WND,Wind,2089,megawatthours
+2021-02-28T09,CAL,California,COL,Coal,655,megawatthours
+2021-02-28T09,CAL,California,NG,Natural Gas,10336,megawatthours
+2021-02-28T09,CAL,California,NUC,Nuclear,1147,megawatthours
+2021-02-28T09,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T09,CAL,California,OTH,Other,360,megawatthours
+2021-02-28T09,CAL,California,SUN,Solar,-19,megawatthours
+2021-02-28T09,CAL,California,WAT,Hydro,1199,megawatthours
+2021-02-28T09,CAL,California,WND,Wind,1691,megawatthours
+2021-02-28T08,CAL,California,COL,Coal,707,megawatthours
+2021-02-28T08,CAL,California,NG,Natural Gas,10391,megawatthours
+2021-02-28T08,CAL,California,NUC,Nuclear,1149,megawatthours
+2021-02-28T08,CAL,California,OIL,Petroleum,88,megawatthours
+2021-02-28T08,CAL,California,OTH,Other,335,megawatthours
+2021-02-28T08,CAL,California,SUN,Solar,-19,megawatthours
+2021-02-28T08,CAL,California,WAT,Hydro,1536,megawatthours
+2021-02-28T08,CAL,California,WND,Wind,1853,megawatthours
